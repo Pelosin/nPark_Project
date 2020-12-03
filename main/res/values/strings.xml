@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">nPark</string>
+    <string name="Register">Registar</string>
+    <string name="Bem_Vindo">Bem-vindo</string>
+    <string name="email">Email (Obrigatório)</string>
+    <string name="password">Password (Obrigatório)</string>
+    <string name="n_telefone">Nº de Telefone</string>
+</resources>
